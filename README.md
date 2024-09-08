@@ -9,9 +9,11 @@ I am a passionate developer with a strong focus on building innovative solutions
 
 ## 🚀 Featured Projects
 
-* [ansible-post-installation](https://github.com/TerrorSquad/ansible-post-installation): Ansible playbooks for post-installation tasks on Linux systems.
+* [Griffin](https://terrorsquad.github.io/ansible-post-installation/): Ansible playbooks for post-installation tasks on Linux systems.
 
 * [lenslocked-nuxt](https://github.com/TerrorSquad/lenslocked-nuxt): Full-stack web application built with Nuxt.js, Tailwind CSS, and Supabase.
+
+* [php-blueprint](https://terrorsquad.github.io/php-blueprint/): Blueprint for creating robust PHP applications with DDEV
 
 ## 🛠️ Core Tech Stack
 

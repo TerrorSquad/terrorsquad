@@ -16,8 +16,8 @@ I am a passionate developer with a strong focus on building innovative solutions
 * [php-blueprint](https://terrorsquad.github.io/php-blueprint/): Blueprint for creating robust PHP applications with DDEV
 
 ## 🛠️ Core Tech Stack
-
-* **Languages:** PHP, JavaScript, TypeScript, Go
+* **OS**: macOS / Linux / WSL
+* **Languages:** PHP, JavaScript, TypeScript, Go, Shell
 * **Frontend:** Vue.js, Nuxt.js, Tailwind CSS
 * **Databases:** MySQL, PostgreSQL, Redis
 * **DevOps:** Ansible, Docker

@@ -13,7 +13,7 @@ I am a passionate developer with a strong focus on building innovative solutions
 
 * [lenslocked-nuxt](https://github.com/TerrorSquad/lenslocked-nuxt): Full-stack web application built with Nuxt.js, Tailwind CSS, and Supabase.
 
-* [php-blueprint](https://terrorsquad.github.io/php-blueprint/): Blueprint for creating robust PHP applications with DDEV
+* [php-booster](https://terrorsquad.github.io/php-booster/): Booster for creating robust PHP applications with DDEV
 
 ## 🛠️ Core Tech Stack
 * **OS**: macOS / Linux / WSL
